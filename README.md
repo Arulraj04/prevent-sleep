@@ -33,7 +33,10 @@ No installation required — just download `StatusApp.exe` and run it.
 
 ## 🖼 Preview
 
-*(add a screenshot of the dashboard here)*
+<img width="397" height="650" alt="image" src="https://github.com/user-attachments/assets/32f59826-6b69-4739-9497-82d2febd8bf1" />
+
+<img width="395" height="653" alt="image" src="https://github.com/user-attachments/assets/2645bdec-2e10-4bd3-8ea8-20c0144f83ce" />
+
 
 ---
 
